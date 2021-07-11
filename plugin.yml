@@ -1,0 +1,11 @@
+name: Staff
+version: 1.0.0
+api: 3.0.0
+author: Zyfote
+main: Zyfote\main
+description: gamemode shortcuts
+permissions:
+  gm.command
+  gmc.command
+  gms.command
+  gmspc.command
