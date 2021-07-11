@@ -7,3 +7,6 @@ gm.command - Gamemode GUI
 gms.command - Changes gamemode to Survival
 gmc.command - Changes gamemode to Creative
 gmspc.command - Changes gamemode to Spectator
+
+Let me know if there's any errors!
+Discord: Josh.#1599
